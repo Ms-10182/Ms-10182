@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Ms-10182
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning algorand and react
-- 💞️ I’m looking to collaborate on blockchain fullstack projects
-- 📫 How to reach me mayank275sharma@gmail.com
+# Hi, I'm Mayank Sharma
 
-<!---
-Ms-10182/Ms-10182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend-focused Full Stack Developer with experience in scalable APIs,
+real-time systems, blockchain applications, and cloud deployments.
+
+Currently:
+- Product Support Engineer Intern @ Razorpay
+- Building backend systems with Node.js, Express, MongoDB
+- Exploring distributed systems, Kafka, WebSockets and cloud infrastructure
+
+Tech Stack:
+Backend:
+Node.js, Express, MongoDB, Kafka, WebSockets
+
+Frontend:
+React, TypeScript
+
+Cloud & DevOps:
+Docker, Azure VM, GitHub Actions
+
+Blockchain:
+Solidity, Ethereum, Algorand, IPFS
+
+Projects:
+- Anonymous Social Platform
+- Blockchain Credential Verification System
+- Donation & Crowdfunding DApps
+- Real-time Notification Systems
