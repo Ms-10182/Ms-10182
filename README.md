@@ -4,7 +4,7 @@ Backend-focused Full Stack Developer with experience in scalable APIs,
 real-time systems, blockchain applications, and cloud deployments.
 
 Currently:
-- Product Support Engineer Intern @ Razorpay
+- Engineer Intern @ Razorpay
 - Building backend systems with Node.js, Express, MongoDB
 - Exploring distributed systems, Kafka, WebSockets and cloud infrastructure
 
